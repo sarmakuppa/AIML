@@ -1,2 +1,2 @@
-# Sample RAGs
-A small effort duplicating sample RAG programming using LangChain
+# Some AI/ML Code
+Sample AI ML code
